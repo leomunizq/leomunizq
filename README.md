@@ -30,6 +30,18 @@
   <a href = "mailto:leonardo.mdq@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
  <!--START_SECTION:waka-->
+
+```text
+From: 06 August 2022 - To: 07 August 2022
+
+Total Time: 1 hr 16 mins
+
+JavaScript   1 hr 15 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   98.54 %
+PHP          0 secs          -------------------------   00.87 %
+SCSS         0 secs          -------------------------   00.42 %
+JSON         0 secs          -------------------------   00.17 %
+```
+
 <!--END_SECTION:waka-->
 
   ![Snake animation](https://github.com/leomunizq/leomunizq/blob/output/github-contribution-grid-snake.svg)
