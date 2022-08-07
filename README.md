@@ -29,7 +29,9 @@
  <a href="https://discord.gg/leomuniz#6155" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:leonardo.mdq@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
- 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
   ![Snake animation](https://github.com/leomunizq/leomunizq/blob/output/github-contribution-grid-snake.svg)
  
 </div>
