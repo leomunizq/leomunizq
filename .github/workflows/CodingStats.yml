@@ -15,6 +15,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
+          SHOW_OS: true
+          SHOW_EDITORS: true
+          SHOW_LINES_OF_CODE: true
           BLOCKS: ->
           TIME_RANGE: all_time
           SHOW_TIME: true
