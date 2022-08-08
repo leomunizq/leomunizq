@@ -32,12 +32,12 @@
  <!--START_SECTION:waka-->
 
 ```text
-From: 06 August 2022 - To: 07 August 2022
+From: 06 August 2022 - To: 08 August 2022
 
 Total Time: 1 hr 16 mins
 
-JavaScript   1 hr 15 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   98.54 %
-PHP          0 secs          -------------------------   00.87 %
+JavaScript   2 hrs 30 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   98.54 %
+PHP          1 min           -------------------------   00.87 %
 SCSS         0 secs          -------------------------   00.42 %
 JSON         0 secs          -------------------------   00.17 %
 ```
