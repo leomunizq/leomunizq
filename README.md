@@ -34,12 +34,13 @@
 ```text
 From: 06 August 2022 - To: 08 August 2022
 
-Total Time: 1 hr 16 mins
+Total Time: 3 hrs 14 mins
 
-JavaScript   2 hrs 30 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   98.54 %
-PHP          1 min           -------------------------   00.87 %
-SCSS         0 secs          -------------------------   00.42 %
-JSON         0 secs          -------------------------   00.17 %
+JavaScript   2 hrs 30 mins   >>>>>>>>>>>>>>-----------   55.42 %
+PHP          1 hr 16 mins    >>>>>>>------------------   28.40 %
+SCSS         43 mins         >>>>---------------------   16.05 %
+JSON         0 secs          -------------------------   00.09 %
+XML          0 secs          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
