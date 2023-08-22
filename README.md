@@ -28,15 +28,15 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2022 - To: 19 August 2023
+From: 06 August 2022 - To: 20 August 2023
 
-Total Time: 1,359 hrs 41 mins
+Total Time: 1,364 hrs 6 mins
 
-TypeScript       637 hrs 12 mins >>>>>>>>>>>>-------------   46.86 %
-SCSS             225 hrs 57 mins >>>>---------------------   16.62 %
-JavaScript       189 hrs 59 mins >>>----------------------   13.97 %
-PHP              127 hrs 7 mins  >>-----------------------   09.35 %
-LESS             37 hrs 22 mins  >------------------------   02.75 %
+TypeScript       639 hrs 7 mins  >>>>>>>>>>>>-------------   46.85 %
+SCSS             225 hrs 57 mins >>>>---------------------   16.56 %
+JavaScript       190 hrs 44 mins >>>----------------------   13.98 %
+PHP              127 hrs 7 mins  >>-----------------------   09.32 %
+LESS             37 hrs 22 mins  >------------------------   02.74 %
 ```
 
 <!--END_SECTION:waka-->
