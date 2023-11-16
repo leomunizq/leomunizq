@@ -21,8 +21,11 @@
  
   
   ##
- <div> 
-   <a href="https://www.linkedin.com/in/leonardomdq" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <div sttyle="display:flex"> 
+   <a href="https://www.linkedin.com/in/leomunizq" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
+ <a href="https://dev.to/leomunizq" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a> 
+
 
   
  <!--START_SECTION:waka-->
@@ -41,6 +44,6 @@ LESS             37 hrs 22 mins  >------------------------   02.22 %
 
 <!--END_SECTION:waka-->
 
-  ![Snake animation](https://github.com/leomunizq/leomunizq/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
